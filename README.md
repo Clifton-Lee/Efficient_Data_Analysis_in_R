@@ -1,0 +1,2 @@
+# Efficient_Data_Analysis_in_R
+We must always be prepared to clean our dataset, since very few datasets do not need any processing prior to analysis. Here I acted as a data analyst for a business that sells programming books. Many of the company's books have gotten favorable reviews. The business has asked me to go through the sales data and see if I can find any helpful information. I'll be analyzing as I go.
